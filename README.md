@@ -1,7 +1,7 @@
 # Spectral-Energy-Distribution
 **Python code for spectral energy distribution analysis of OGLE SMC-LPV-3409 in the Small Magellanic Cloud.**
 
-In this project, I have analyzed the SED ( Spectral Energy Distribution ) of a post-AGB star. The SED is a plot that shows the energy emitted by the object as a function of frequency or wavelength. Using this we will analyze the object’s physical features like the
+In this project, I have analyzed the SED ( Spectral Energy Distribution ) of a post-AGB star. The SED is a plot that shows the energy emitted by the object as a function of frequency or wavelength. Using this we will analyze the object’s physical features like the
 temperature, metallicity and luminosity. Then we will plot the SED of the stellar object by dereddening the data and calculating the different parameters of the star. The object is a long-period variable in the Small Magellanic Cloud.
 
 ## Stellar Parameters
