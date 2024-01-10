@@ -1,5 +1,5 @@
 # Spectral-Energy-Distribution
-Python code for spectral energy distribution analysis of OGLE SMC-LPV-3409 in the Small Magellanic Cloud.
+**Python code for spectral energy distribution analysis of OGLE SMC-LPV-3409 in the Small Magellanic Cloud.**
 
 Raw data points before and after cleaning:
 ![image](https://github.com/aadishj19/Spectral-Energy-Distribution/assets/84670503/e4779d25-d33c-4433-aeb7-0da8083f5cde)
