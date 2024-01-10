@@ -1,1 +1,1 @@
-# Spectral-Energy-DIstribution
+# Spectral-Energy-Distribution
