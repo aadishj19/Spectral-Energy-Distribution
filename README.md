@@ -10,9 +10,6 @@ temperature, metallicity and luminosity. Then we will plot the SED of the stella
 | ----------------- | ------------------- | ---- | ---------- |
 | OGLE SMC-LPV-3409 | J004114.10-741130.1 | 5750 | 0.5        |
 
-- Teff: 5750
-- log [Fe/h]: 0.5
-
 
 Raw data points before and after cleaning:
 ![image](https://github.com/aadishj19/Spectral-Energy-Distribution/assets/84670503/e4779d25-d33c-4433-aeb7-0da8083f5cde)
