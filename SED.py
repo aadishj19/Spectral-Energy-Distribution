@@ -18,7 +18,7 @@ import math
 
 
 # Read the table file
-table_file = r'C:\Users\aadis\Desktop\SED\vizier_votable.vot'
+table_file = r'C:\Users\user\Desktop\SED\vizier_votable.vot'
 votable = parse(table_file)
 table = votable.get_first_table().to_table(use_names_over_ids=True)
 tablepd = table.to_pandas()
